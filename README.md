@@ -5,10 +5,10 @@
 ### Hi there 👋
 
 #### Favorite Languages
-[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/ruby.svg" />](https://html.duckduckgo.com/search?&q=Ruby)
+[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/ruby.svg" />](https://html.duckduckgo.com/html?&q=Ruby)
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://html.duckduckgo.com/html?q=Bash)
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/lua.svg" />](https://html.duckduckgo.com/search?&q=Lua)
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/vue.svg" />](https://html.duckduckgo.com/search?&q=Vue.js)
+[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/lua.svg" />](https://html.duckduckgo.com/html?&q=Lua)
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/vue.svg" />](https://html.duckduckgo.com/html?&q=Vue.js)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://html.duckduckgo.com/html?q=CSS)
 
 <!--
