@@ -14,7 +14,7 @@ Fingerprint: B5D8 FFD0 D7F1 FB6A 4350 5E31 9CC9 729A 2E36 9CB3
 Public key: https://github.com/szorfein/szorfein/blob/main/szorfein.gpg
 
 #### Favorite Languages
-[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/ruby.svg" />](https://html.duckduckgo.com/html?q=Ruby)
+[<img align="left" alt="Ruby" src="https://img.shields.io/badge/ruby-d54c4c.svg?&style=for-the-badge&logo=ruby&logoColor=FFFFFF" />](https://html.duckduckgo.com/html?q=Ruby)
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://html.duckduckgo.com/html?q=Bash)
 [<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/lua.svg" />](https://html.duckduckgo.com/html?q=Lua)
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/vue.svg" />](https://html.duckduckgo.com/html?q=Vue.js)
