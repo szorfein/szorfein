@@ -4,7 +4,7 @@
 [twitter]: https://www.twitter.com/szorfein
 
 <p align="center">
-  <img alt="szorfein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=szorfein&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img alt="szorfein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=szorfein&show_icons=true&title_color=EBCB8B&text_color=E5E9F0&icon_color=81B1C1&bg_color=2E3440&hide_border=true&border_radius=0&include_all_commits=true&count_private=true" />
 </p>
 
 ### Hi there 👋
@@ -15,17 +15,17 @@ Public key: https://github.com/szorfein/szorfein/blob/main/szorfein.gpg
 
 #### Favorite Languages
 [<img align="left" alt="Ruby" src="https://img.shields.io/badge/ruby-d54c4c.svg?&style=for-the-badge&logo=ruby&logoColor=FFFFFF" />](https://html.duckduckgo.com/html?q=Ruby)
-[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://html.duckduckgo.com/html?q=Bash)
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/lua.svg" />](https://html.duckduckgo.com/html?q=Lua)
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/vue.svg" />](https://html.duckduckgo.com/html?q=Vue.js)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://html.duckduckgo.com/html?q=CSS)
+[<img align="left" alt="Sh" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://html.duckduckgo.com/html?q=Shell)
+[<img align="left" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />](https://html.duckduckgo.com/html?q=Lua)
+[<img align="left" alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />](https://html.duckduckgo.com/html?q=Vue.js)
+[<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://html.duckduckgo.com/html?q=HTML5)
 
 <br />
 
 #### Social links
-[<img align="left" alt="szorfein | Github" width="24px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="szorfein | Twitter" width="24px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="szorfein | Reddit" width="24px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
+[<img align="left" alt="szorfein | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/szorfein)
+[<img align="left" alt="szorfein | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/szorfein)
+[<img align="left" alt="szorfein | Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/szorfein)
 
 <!--
 **szorfein/szorfein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
