@@ -27,7 +27,8 @@ Public key: https://github.com/szorfein/szorfein/blob/main/szorfein.gpg
 [<img align="left" alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />](https://search.brave.com/search?q=vue.js)
 [<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://search.brave.com/search?q=html+5)
 
-<br>
+<br />
+
 #### Social links
 [<img align="left" alt="szorfein | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/szorfein)
 [<img align="left" alt="szorfein | Mastodon" src="https://img.shields.io/badge/Mastodon-ffffff?style=for-the-badge&logo=mastodon" />](https://mastodon.social/@szorfein)
