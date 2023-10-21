@@ -14,18 +14,19 @@
 + about hacking and linux (soon)
 + about food recipes (in french) - https://szorfein-zola-cook-default.edgio.link/
 
+
 #### GPG
 Fingerprint: B5D8 FFD0 D7F1 FB6A 4350 5E31 9CC9 729A 2E36 9CB3  
 Public key: https://github.com/szorfein/szorfein/blob/main/szorfein.gpg
 
-#### Favorite Languages
-[<img align="left" alt="Ruby" src="https://img.shields.io/badge/ruby-d54c4c.svg?&style=for-the-badge&logo=ruby&logoColor=FFFFFF" />](https://html.duckduckgo.com/html?q=Ruby)
-[<img align="left" alt="Sh" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://html.duckduckgo.com/html?q=Shell)
-[<img align="left" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />](https://html.duckduckgo.com/html?q=Lua)
-[<img align="left" alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />](https://html.duckduckgo.com/html?q=Vue.js)
-[<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://html.duckduckgo.com/html?q=HTML5)
 
-<br />
+#### Favorite Languages
+[<img align="left" alt="Ruby" src="https://img.shields.io/badge/ruby-d54c4c.svg?&style=for-the-badge&logo=ruby&logoColor=FFFFFF" />](https://search.brave.com/search?q=Ruby)
+[<img align="left" alt="Sh" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://search.brave.com/search?q=shell+script)
+[<img align="left" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />](https://search.brave.com/search?q=Lua)
+[<img align="left" alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />](https://search.brave.com/search?q=vue.js)
+[<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://search.brave.com/search?q=html+5)
+
 
 #### Social links
 [<img align="left" alt="szorfein | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/szorfein)
