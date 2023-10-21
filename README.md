@@ -9,6 +9,11 @@
 
 ### Hi there 👋
 
+#### Blogs
+
++ about hacking and linux (soon)
++ about food recipes (in french) - https://szorfein-zola-cook-default.edgio.link/
+
 #### GPG
 Fingerprint: B5D8 FFD0 D7F1 FB6A 4350 5E31 9CC9 729A 2E36 9CB3  
 Public key: https://github.com/szorfein/szorfein/blob/main/szorfein.gpg
@@ -24,6 +29,7 @@ Public key: https://github.com/szorfein/szorfein/blob/main/szorfein.gpg
 
 #### Social links
 [<img align="left" alt="szorfein | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/szorfein)
+[<img align="left" alt="szorfein | Mastodon" src="https://img.shields.io/badge/Mastodon-ffffff?style=for-the-badge&logo=mastodon" />](https://mastodon.social/@szorfein)
 [<img align="left" alt="szorfein | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/szorfein)
 [<img align="left" alt="szorfein | Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/szorfein)
 
