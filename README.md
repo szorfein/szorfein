@@ -11,8 +11,8 @@
 
 #### Blogs
 
-+ about hacking and linux (soon)
-+ about food recipes (in french) - https://szorfein-zola-cook-default.edgio.link/
++ about Linux, Code (beta) - https://blog-smoky-mu.vercel.app/
++ about food recipes (in french) (Need to Re Deployed) - https://szorfein-zola-cook-default.edgio.link/
 
 
 #### GPG
