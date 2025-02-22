@@ -11,14 +11,12 @@
 
 #### Blogs
 
-+ about Linux, Code (beta) - https://blog-smoky-mu.vercel.app/
-+ about food recipes (in french) (Need to Re Deployed) - https://szorfein-zola-cook-default.edgio.link/
-
++ About Linux, Code (beta) - https://blog-smoky-mu.vercel.app/
++ About food recipes (in french) - https://recipes-zola.surge.sh
 
 #### GPG
 Fingerprint: B5D8 FFD0 D7F1 FB6A 4350 5E31 9CC9 729A 2E36 9CB3  
 Public key: https://github.com/szorfein/szorfein/blob/main/szorfein.gpg
-
 
 #### Favorite Languages
 [<img align="left" alt="Ruby" src="https://img.shields.io/badge/ruby-d54c4c.svg?&style=for-the-badge&logo=ruby&logoColor=FFFFFF" />](https://search.brave.com/search?q=Ruby)
