@@ -11,7 +11,7 @@
 
 #### Blogs
 
-+ About Linux, Code (beta) - https://blog-smoky-mu.vercel.app/
++ About Linux, Code - https://szorfein-dato.vercel.app/
 + About food recipes (in french) - https://recipes-zola.surge.sh
 
 #### GPG
