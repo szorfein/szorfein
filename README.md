@@ -11,7 +11,7 @@
 
 #### Blogs
 
-+ About Linux, Code - https://szorfein-dato.vercel.app/
++ About Linux, Code - https://szorfein.vercel.app/
 + About food recipes (in french) - https://recipes-zola.surge.sh
 
 #### GPG
@@ -22,6 +22,7 @@ Public key: https://github.com/szorfein/szorfein/blob/main/szorfein.gpg
 [<img align="left" alt="Ruby" src="https://img.shields.io/badge/ruby-d54c4c.svg?&style=for-the-badge&logo=ruby&logoColor=FFFFFF" />](https://search.brave.com/search?q=Ruby)
 [<img align="left" alt="Sh" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />](https://search.brave.com/search?q=shell+script)
 [<img align="left" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />](https://search.brave.com/search?q=Lua)
+[<img align="left" alt="AstroJS" src="https://img.shields.io/badge/Astro-090909?style=for-the-badge&logo=astro&logoColor=F9F9FF" />](https://search.brave.com/search?q=astro.js)
 [<img align="left" alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />](https://search.brave.com/search?q=vue.js)
 
 <br />
