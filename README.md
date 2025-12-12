@@ -34,6 +34,7 @@ Public key: https://github.com/szorfein/szorfein/blob/main/szorfein.gpg
 
 [<img align="left" alt="szorfein | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/szorfein)
 [<img align="left" alt="szorfein | Mastodon" src="https://img.shields.io/badge/Mastodon-ffffff?style=for-the-badge&logo=mastodon" />](https://mastodon.social/@szorfein)
+[<img align="left" alt="szorfein | Lemmy" src="https://img.shields.io/badge/Lemmy-000040?style=for-the-badge&logo=lemmy" />](https://lemmy.ml/u/Szorfein)
 
 <!--
 **szorfein/szorfein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
