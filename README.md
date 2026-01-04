@@ -9,7 +9,7 @@ I'm Szorfein, a Fullstack developer from France. Interested by any full remote w
 - 💬 &nbsp;Ask me about anything related to Javascript/Ruby or Astro/Vue/Express/Fastify
 - :package: [Void Linux](https://voidlinux.org/) / [Swayfx](https://github.com/WillPower3309/swayfx) / [Neovim](https://neovim.io/) / [Yazi](https://github.com/sxyazi/yazi) / [Mpv](https://mpv.io/) / [Librewolf](https://librewolf.net/)
 - :thought_balloon: Reach me at [Discussions](https://github.com/szorfein/szorfein/discussions/new/choose) or [`szorfein@protonmail.com`](mailto:szorfein@protonmail.com)
-- :rice: Always improving my [dotfiles](https://github.com/szorfein/dotfiles) and think about a next theme
+- :rice: Always improving my [dotfiles](https://github.com/szorfein/dotfiles) and build next theme
 - :cookie: Also experiment some food recipes on: [recipes-zola](https://recipes-zola.surge.sh/)
 - :key: GPG key: [`0x9CC9729A2E369CB3`](https://github.com/szorfein.gpg)
 
