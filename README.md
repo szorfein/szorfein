@@ -19,11 +19,12 @@ I'm Szorfein, a Fullstack developer from France. Interested by any full remote w
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Steps for setting up MAC Address Spoofing](https://drowr.vercel.app/post/basic-steps-for-setting-up-mac-address-spoofing)
+- [Secure remote backups with Rsync and SSH](https://drowr.vercel.app/post/secure-remote-backups-with-rsync-and-ssh)
 - [Dark mode on AstroJs](https://szorfein.vercel.app/post/dark-mode-on-astro)
 - [Full backup with Duplicity](https://szorfein.vercel.app/post/backup-with-duplicity)
 - [Share files with Onionshare CLI](https://szorfein.vercel.app/post/onionshare-cli)
 - [Make your own Swayfx theme](https://szorfein.vercel.app/post/your-own-swayfx-theme)
-- [Use Quickemu](https://szorfein.vercel.app/post/quickemu)
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -32,6 +33,7 @@ I'm Szorfein, a Fullstack developer from France. Interested by any full remote w
 <p align="left">
 <a href="https://mastodon.social/@szorfein" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="szorfein" height="30" width="40" /></a>
 <a href="https://lemmy.ml/u/Szorfein" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Lemmy_logo.svg/500px-Lemmy_logo.svg.png" alt="szorfein" height="30" width="40" /></a>
+<a href="https://matrix.to/#/@szorfein:matrix.org" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/matrix/matrix-icon.svg" alt="Szorfein on Matrix" height="30" width="30" style="padding-left:.5rem;" /></a>
 
 ---
 
