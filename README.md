@@ -30,11 +30,16 @@ I'm Szorfein, a Fullstack developer from France. Interested by any full remote w
 
 🔗 &nbsp;**Connect with me**
 
-<p align="left">
-<a href="https://mastodon.social/@szorfein" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="szorfein" height="30" width="40" /></a>
-<a href="https://lemmy.ml/u/Szorfein" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Lemmy_logo.svg/500px-Lemmy_logo.svg.png" alt="szorfein" height="30" width="40" /></a>
-<a href="https://matrix.to/#/@szorfein:matrix.org" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/matrix/matrix-icon.svg" alt="Szorfein on Matrix" height="30" width="30" style="padding-left:.5rem;" /></a>
-</p>
+[<img align="left" alt="Szorfein | Mastodon" width="40px" height="30px" src="https://joinmastodon.org/logos/logo-purple.svg" />][mastodon]
+[<img align="left" alt="Szorfein | Lemmy" width="40px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Lemmy_logo.svg/500px-Lemmy_logo.svg.png" />][lemmy]
+[<img align="left" alt="Szorfein | Matrix" width="40px" height="30px" src="https://www.vectorlogo.zone/logos/matrix/matrix-icon.svg" />][matrix]
+
+[mastodon]: https://mastodon.social/@szorfein
+[lemmy]: https://lemmy.ml/u/Szorfein
+[matrix]: https://matrix.to/#/@szorfein:matrix.org
+
+<br />
+<br />
 
 ---
 
