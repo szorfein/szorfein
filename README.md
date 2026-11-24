@@ -18,14 +18,12 @@ I'm Szorfein, a Fullstack developer from France. Interested by any full remote w
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Steps for setting up MAC Address Spoofing](https://drowr.vercel.app/post/basic-steps-for-setting-up-mac-address-spoofing)
-- [Secure remote backups with Rsync and SSH](https://drowr.vercel.app/post/secure-remote-backups-with-rsync-and-ssh)
-- [Dark mode on AstroJs](https://szorfein.vercel.app/post/dark-mode-on-astro)
-- [Full backup with Duplicity](https://szorfein.vercel.app/post/backup-with-duplicity)
-- [Share files with Onionshare CLI](https://szorfein.vercel.app/post/onionshare-cli)
-- [Make your own Swayfx theme](https://szorfein.vercel.app/post/your-own-swayfx-theme)
-
+- [Create your own SwayFX/EWW theme](https://lolthway.vercel.app/posts/create-your-own-swayfx-eww-theme/)
+- [ImageMagick cheat sheet](https://lolthway.vercel.app/posts/imagemagick-cheat-sheet/)
+- [05 - Secret Runes app](https://lolthway.vercel.app/posts/05-secret-runes-app/)
+- [04 - Simple note app in Go](https://lolthway.vercel.app/posts/04-simple-note-app/)
+- [03 - More on the basis of the Go language.](https://lolthway.vercel.app/posts/03-more-on-go-basis/)
+- [02 - Guess game in Go](https://lolthway.vercel.app/posts/02-guess-game-in-go/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
