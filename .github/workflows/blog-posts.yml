@@ -1,0 +1,24 @@
+name: Update blog posts
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # v1
+        with:
+          feed_list: https://lolthway.vercel.app/rss.xml
+          max_post_count: "6"
+          enable_keepalive: "false"
+          commit_message: |
+            Update latest blog posts
+
+            Co-authored-by: copilot-swe-agent[bot] <198982749+Copilot@users.noreply.github.com>
