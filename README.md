@@ -18,12 +18,12 @@ I'm Szorfein, a Fullstack developer from France. Interested by any full remote w
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Error handling in Go](https://lolthway.vercel.app/posts/error-handling-in-go/)
 - [Install VoidLinux in 10 min](https://lolthway.vercel.app/posts/install-voidlinux-in-10min/)
 - [Create your own SwayFX/EWW theme](https://lolthway.vercel.app/posts/create-your-own-swayfx-eww-theme/)
 - [ImageMagick cheat sheet](https://lolthway.vercel.app/posts/imagemagick-cheat-sheet/)
 - [05 - Secret Runes app](https://lolthway.vercel.app/posts/05-secret-runes-app/)
 - [04 - Simple note app in Go](https://lolthway.vercel.app/posts/04-simple-note-app/)
-- [03 - More on the basis of the Go language.](https://lolthway.vercel.app/posts/03-more-on-go-basis/)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
